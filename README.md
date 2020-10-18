@@ -1,3 +1,6 @@
+# Run
+npm install && node src/server/index.js
+
 # Game Design Document
 **INSTANT SUMMARY**
 > Moxxi is a 3D First Person Shooter (FPS). It is a low-poly Multiplayer game where players can into different modes and must take other down to rise to the top.
